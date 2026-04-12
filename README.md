@@ -35,8 +35,7 @@ Geminiで以下のプロンプトを入力
 またキャラクター画像の生成をGeminiで行い、ファイルimages内に保存する。
 
 2. アプリの起動
-Bash
-python rpgapp13.py
+python3 rpgapp13.py
 
 3.メイン画面での入力
 json形式を入力部分にコピーし、敵か味方として登録
